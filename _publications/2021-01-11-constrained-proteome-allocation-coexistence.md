@@ -3,7 +3,7 @@ title: "Constrained proteome allocation affects coexistence in models of competi
 collection: publications
 permalink: /publication/2021-01-11-constrained-proteome-allocation-coexistence
 excerpt: "Journal article"
-date: 2021-01-01
+date: 2021-01-11
 year: '2021'
 venue: 'The ISME Journal'
 authors: 'Leonardo Pacciani-Mori, Samir Suweis, Amos Maritan, Andrea Giometto'
