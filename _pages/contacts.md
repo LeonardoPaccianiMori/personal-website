@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 <ul style="list-style-type:none;">
-    <li><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:leonardo.paccianimori@phd.unipd.it">Email</a></li>
+    <li><i class="fas fa-envelope" aria-hidden="true"></i> <a href="mailto:lpaccianimori@physics.ucsd.edu">Email</a></li>
     <li><i class="fab fa-twitter-square" aria-hidden="true"></i> <a href="https://twitter.com/LeoPaccianiMori" target="_blank"><!--_-->Twitter</a></li>
   <!--<li><i class="fab fa-linkedin" aria-hidden="true"></i> <a href="https://www.linkedin.com/in/leonardo-pacciani-mori" target="_blank"><!--_--><!-- LinkedIn</a></li>-->
     <li><i class="fab fa-github" aria-hidden="true"></i> <a href="https://github.com/LeonardoPaccianiMori" target="_blank"><!--_-->Github</a></li>
