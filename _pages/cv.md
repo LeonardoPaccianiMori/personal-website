@@ -38,6 +38,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 	   <img src='/images/uniPD_logo.png' width="150"></div></td>
        <td width="65%">Ph.D in <i>Physics</i>, University of Padua<br>
        <b>Thesis title:</b> <i>Two improved approaches to the study of competition in microbial communities</i><br>
+       <b>Tutor:</b> Flavio Seno<br>
 	      <b>Supervisor:</b> Amos Maritan<br>
 		   <b>Co-supervisor:</b> Samir Suweis<br>
 	 <b>Expected thesis defense period:</b> December 2020<br><br>
