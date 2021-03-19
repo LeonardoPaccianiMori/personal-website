@@ -1,5 +1,5 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,9 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
   <tr>
     <td width="35%"><div align="right">Mar 1st 2021 - Present day<br>
     <img src="/images/UCSD_seal.png" width="150"></div></td>
-    <td width="65%">Postdoctoral researcher at University of California, San Diego<br>
+    <td width="65%">Postdoctoral researcher<br>
+    University of California, San Diego<br>
+    Department of Physics<br>
     <b>Supervisor: </b> Terence Hwa<br><br><br>
     </td>
   </tr>
