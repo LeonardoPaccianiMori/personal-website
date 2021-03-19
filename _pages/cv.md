@@ -17,7 +17,7 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
     <td width="35%"><div align="right">Mar 1st 2021 - Present day<br>
     <img src="/images/UCSD_seal.png" width="150"></div></td>
     <td width="65%">Postdoctoral researcher<br>
-    University of California, San Diego<br>
+    <b>University of California, San Diego</b><br>
     Department of Physics<br>
     <b>Supervisor: </b> Terence Hwa<br><br><br>
     </td>
@@ -43,7 +43,6 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
        <b>Tutor:</b> Flavio Seno<br>
 	      <b>Supervisor:</b> Amos Maritan<br>
 		   <b>Co-supervisor:</b> Samir Suweis<br>
-	 <b>Expected thesis defense period:</b> December 2020<br><br>
    </td>
   </tr>
   <tr>
