@@ -25,7 +25,9 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
   <tr>
     <td width="35%"><div align="right">Apr 1st - Sep 30th 2019<br>
 		<img src="/images/Harvard_logo.png" width="150"></div></td>
-    <td width="65%">Fellow of the Department of Physics, Harvard University<br>
+    <td width="65%">Fellow of the Department of Physics<br>
+    <b>Harvard University</b><br>
+    Department of Physics<br>
     <b>Supervisors: </b> Andrea Giometto, Andrew Murray, David Nelson<br><br><br>
     </td>
   </tr>
