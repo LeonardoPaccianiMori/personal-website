@@ -11,7 +11,7 @@ location: "Padua, Italy"
 
 This talk has been held during the Workshop "The physics of complex systems IV: from Padova to the rest of the world and back".
 
-You can find [here](/files/slides/Pacciani_PoCS-IV.pdf){:target="_blank"}<!--_--> the slides I have shown during the talk.
+You can find [here](/files/slides/2018-12-20-PoCS-IV.pdf){:target="_blank"}<!--_--> the slides I have shown during the talk.
 
 
 ## Abstract
