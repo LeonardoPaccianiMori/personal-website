@@ -81,6 +81,9 @@ Here you can find my CV, which can also be downloaded as a [pdf file](/files/CV_
 
 
 ## Organized conferences, workshops and schools
+* <a href="https://liphlab.github.io/SMEEB2021/">Stochastic Models and Experiments in Ecology and Biology</a>, *European Center for Living Technology, Ca’ Foscari University of Venice*, June 22nd - 25th 2021
+  <ul> <li style="list-style-type: none;">Hybrid online/in person conference</li> </ul>
+
 * Sei Spritz Facili, *University of Padua, Department of Physics*, October 2016 - May 2017
   <ul> <li style="list-style-type: none;">Series of six lectures covering the areas over which research is carried out in the Department. Activity of the Padua Local Committee of the Italian Association of Physics Students</li> </ul>
 
